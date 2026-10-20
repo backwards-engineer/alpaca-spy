@@ -3,6 +3,10 @@
 Cache-first Python tooling for a research dataset containing one-minute SIP SPY prices,
 five-minute SPY option bars, and the expirations nearest 0, 30, 60, and 120 calendar days.
 
+![Signal Lab showing SPY market metrics and an interactive three-dimensional call-option implied-volatility surface](docs/screenshot.png)
+
+Signal Lab: market metrics and the session's option implied-volatility surface.
+
 ## Why Python + SQLite
 
 Python has the deepest ecosystem for options research, statistics, and notebooks.
