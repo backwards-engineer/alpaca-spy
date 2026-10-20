@@ -3,6 +3,10 @@
 Cache-first Python tooling for a research dataset containing one-minute SIP SPY prices,
 five-minute SPY option bars, and the expirations nearest 0, 30, 60, and 120 calendar days.
 
+![SPY Field Notes showing the yearly month map and August 2026 session calendar with intraday price charts and option-contract coverage](docs/calendar.png)
+
+Session archive: yearly overview and daily SPY charts with option-contract coverage.
+
 ![Signal Lab showing SPY market metrics and an interactive three-dimensional call-option implied-volatility surface](docs/screenshot.png)
 
 Signal Lab: market metrics and the session's option implied-volatility surface.
